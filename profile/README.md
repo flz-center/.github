@@ -21,12 +21,12 @@ The Fluidization Center is a joint research group focused on fluidization, parti
 
 Current collaborators and affiliated members are associated with institutions including:
 
-- Western University
-- Eastern Institute of Technology
-- Guangdong University of Technology
-- Wuhan Institute of Technology
-- University of Nottingham Ningbo China
-- China University of Mining and Technology
+- 加拿大西安大略大学 | Western University
+- 宁波东方理工大学 | Eastern Institute of Technology, Ningbo
+- 广东工业大学 | Guangdong University of Technology
+- 武汉工程大学 | Wuhan Institute of Technology
+- 宁波诺丁汉大学 | University of Nottingham Ningbo China
+- 中国矿业大学 | China University of Mining and Technology
 
 ## 仓库说明 | Repositories
 
