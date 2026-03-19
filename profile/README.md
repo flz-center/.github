@@ -8,16 +8,19 @@ Welcome to the Fluidization Center.
 
 The Fluidization Center is a joint research group focused on fluidization, particle engineering, and related multiphase flow problems. Founded and led by Professor Jesse Zhu, the Center brings together researchers and students across multiple institutions to work on fundamental mechanisms, modeling and simulation, and engineering applications.
 
-## Research Areas
+## 研究方向 | Research Areas
 
-- fluidization and gas-solid systems
-- particle technology and multiphase flow
-- modeling, simulation, and data-driven analysis
-- reactor-scale understanding and engineering applications
+- 流态化与气固系统 | fluidization and gas-solid systems
+- 颗粒技术与多相流 | particle technology and multiphase flow
+- 建模、模拟与数据驱动分析 | modeling, simulation, and data-driven analysis
+- 反应器尺度理解与工程应用 | reactor-scale understanding and engineering applications
 
-## Collaborative Network
+## 合作网络 | Collaborative Network
+
+当前合作成员和相关研究人员来自多所高校与研究机构，包括：
 
 Current collaborators and affiliated members are associated with institutions including:
+
 - Western University
 - Eastern Institute of Technology
 - Guangdong University of Technology
@@ -25,13 +28,18 @@ Current collaborators and affiliated members are associated with institutions in
 - University of Nottingham Ningbo China
 - China University of Mining and Technology
 
-## Repositories
+## 仓库说明 | Repositories
+
+本 GitHub 组织主要用于存放：
 
 This GitHub organization is used to host:
-- public-facing materials for the group
-- selected research code and project repositories
-- internal coordination repositories where access is restricted to members
 
-## Contact
+- 课题组对外展示材料 | public-facing materials for the group
+- 部分研究代码与项目仓库 | selected research code and project repositories
+- 仅限组内成员访问的内部协作仓库 | internal coordination repositories where access is restricted to members
+
+## 联系方式 | Contact
+
+如有合作或研究相关事宜，欢迎通过相关项目仓库或联系课题组相关成员与我们取得联系。
 
 For collaboration or research-related inquiries, please contact the group through the appropriate project repository or the relevant group member.
